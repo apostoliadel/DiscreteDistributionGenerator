@@ -52,6 +52,7 @@ Here are some examples of the stuff you can do with this code:
 ## About the Author
 
 Name: Apostolia Delikosta
+
 GitHub: [apostoliadel](https://github.com/apostoliadel)
 
 Feel free to modify and adapt the content to fit your needs.
