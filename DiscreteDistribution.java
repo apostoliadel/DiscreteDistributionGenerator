@@ -1,9 +1,18 @@
 /******************************************************************************
- *  Name:              Apostolia Delikosta
- *  GitHub Username:   apostoliadel
- *  Last modified:     July 5, 2023
+ *  Name:             Apostolia Delikosta
+ *  GitHub:           https://github.com/apostoliadel
+ *  Last modified:    July 5, 2023
+ *
+ *  Description:      This code generates random numbers using specific probabilities.
+ *
+ *  Command-line arguments:
+ *      1. numRandomNumbers: The number of random numbers to generate
+ *      2. probabilities: An array of probabilities representing the chances of each number being generated
+ *
+ *  Usage:             java DiscreteDistribution <numRandomNumbers> <probabilities...>
+ *                     Example: java DiscreteDistribution 10 1 2 3 4
+ *
  *****************************************************************************/
-
 public class DiscreteDistribution {
     public static void main(String[] args) {
 		
